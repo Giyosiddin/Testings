@@ -1,0 +1,6 @@
+products:
+    product_2:
+        id: '2'
+        name: 'Product name 2'
+        category: 'Category 2'
+        price: '1000'
